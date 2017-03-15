@@ -1,8 +1,8 @@
 /**
  * File: sha256.h
  *
- * Programmer: Josh Inscoe
- * Date: 6/19/13
+ * 
+ * 
  *
  * Description:
  *		- Defines the SHA256_Hash class which contains functions for generating
